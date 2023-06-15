@@ -1,7 +1,3 @@
-Работа с SQL   https://onecompiler.com/mysql
-
-_______________________________________________
-
 -- create
 CREATE TABLE employee (
   Id INTEGER PRIMARY KEY AUTO_INCREMENT,
