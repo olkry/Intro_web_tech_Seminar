@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <users>
+      <user>
+            <id>123</id>
+            <name>Олег</name>
+            <age>33</age>
+      </user>
+      <user>
+            <id>1234</id>
+            <name>Виктор</name>
+            <age>42</age>
+      </user>
+</users> -->
+
+<!-- Формируем XML -->
+
+<books>
+      <book>
+            <title>Название книги</title>
+            <autor>Автор книги</autor>
+            <pages>Кол-во страниц</pages>
+            <date>Дата публикации</date>
+            <prise>Цена</prise>
+      </book>
+            <book>
+            <title>Название книги2</title>
+            <autor>Автор книги2</autor>
+            <pages>Кол-во страниц2</pages>
+            <date>Дата публикации2</date>
+            <prise>Цена2</prise>
+      </book>
+            <book>
+            <title>Название книги3</title>
+            <autor>Автор книги3</autor>
+            <pages>Кол-во страниц3</pages>
+            <date>Дата публикации3</date>
+            <prise>Цена3</prise>
+      </book>
+            <book>
+            <title>Название книги4</title>
+            <autor>Автор книги4</autor>
+            <pages>Кол-во страниц4</pages>
+            <date>Дата публикации4</date>
+            <prise>Цена4</prise>
+      </book>
+</books>
